@@ -1,0 +1,14 @@
+{
+  "name": "yui",
+  "version": "0.0.1",
+  "description": "越大大的UI库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yui"
+  ],
+  "author": "yue--越大大",
+  "license": "ISC"
+}
